@@ -6,66 +6,48 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Aproximadamente 1,5 horas.
 
-![portada](https://github.com/aprendiendo-cosas/Te_comp_inter_ecologia_ccaa/raw/main/imagenes/competencia_inter.png)
+![portada](https://github.com/aprendiendo-cosas/Te_ciclos_biogeo_ecologia_ccaa/raw/main/imagenes/portada.png)
+
+
 
 ## Objetivos 
 
-En esta guía se describen dos sesiones de una hora cada una. Tiene los siguientes objetivos. 
+Esta sesión es la última de la asignatura y en ella daremos el último salto de escala que iniciamos cuando hablamos de poblaciones ecológicas. Desde esa primera sesión hemos transitado el camino desde las poblaciones hasta los ecosistemas, pasando por las comunidades (y los elementos "intermedios": metapoblaciones, biomas, etc.). En esta ocasión trascenderemos la idea de ecosistema para considerar a la biosfera como una entidad con propiedades características. Así, analizaremos con cierto detalle cómo surgen propiedades emergentes que dan entidad a la idea de biosfera y que no están presentes en los ecosistemas. De manera más específica, los objetivos de esta sesión son:
 
- + Definición del concepto de competencia interespecífica, que se pone de manifiesto en las comunidades ecológicas.
- + Aprender el impacto que tiene la competencia sobre el crecimiento de las poblaciones implicadas en dicha interacción. Además del ya conocido "freno" provocado por la competencia intraespecífica, analizaremos en qué medida la competencia entre especies también afecta al crecimiento poblacional. 
- + Estudiar el modelo de Lotka y Volterra como instrumento matemático para comprender el impacto de la competencia en las poblaciones de las especies afectadas.
-
-   
-
- ## Contenidos. Breve introducción a las interacciones ecológicas
-Antes de hablar de competencia interespecífica, pongamos en contexto este concepto. 
-
-La competencia interespecífica es uno de los muchos tipos de interacciones que ocurren en las comunidades ecológicas. A través de estas interacciones se produce la transferencia de materia y energía entre los distintos niveles en los que se organiza la vida en la Tierra. Esto último cobrará más sentido cuando estudiemos los ciclos biogeoquímicos. Las relaciones o interacciones son fundamentales porque su abundancia y configuración contribuye a explicar ciertas propiedades de los ecosistemas:
-
-+ Los sistemas con más interacciones son más estables. Es decir, se ven menos afectados por las condiciones ambientales externas. [Este](https://github.com/aprendiendo-cosas/Te_comp_inter_ecologia_ccaa/raw/main/biblio/interacciones_estabilidad_1.pdf) artículo describe muy bien esta afirmación. 
-+ También se ha observado que en las comunidades en las que hay más interacciones, hay más productividad. [Este](https://github.com/aprendiendo-cosas/Te_comp_inter_ecologia_ccaa/raw/main/biblio/interacciones_estabilidad_2.pdf) artículo lo resume bien. 
-+ Por último sabemos que el equilibrio en el tipo de interacciones (la llamada equitatividad de interacciones) genera más estabilidad en el ecosistema. De nuevo, [aquí](https://github.com/aprendiendo-cosas/Te_comp_inter_ecologia_ccaa/raw/main/biblio/interacciones_estabilidad_3.pdf) tienes un artículo que describe esta afirmación. 
-
-En las próximas sesiones analizaremos los distintos tipos de interacciones ecológicas que se han descrito. La siguiente tabla muestra dichas interacciones:
++ Conocer el concepto de ciclo biogeoquímico como agregado de la actividad individual de los organismos vivos que pueblan el planeta.
++ Conocer los elementos que constituyen los ciclos biogeoquímicos.
++ Entender la componente temporal de los ciclos biogeoquímicos: flujos a corto, a medio y a largo plazo. 
++ Del objetivo anterior se deriva la idea de *sumidero* como lugar en el que hay una acumulación neta del compuesto en cuesitón.
++ Comprensión de la teoría de Gaia, como ejemplo de "entidad" que solo tiene sentido a escala planetaria y que resulta de la combinación involuntaria y no programada en la genética de la actividad de todos los seres vivos del planeta.
 
 
 
-![interacciones](https://github.com/aprendiendo-cosas/Te_comp_inter_ecologia_ccaa/raw/main/presentacion/images/tipos_interacciones.png)
+ ## Contenidos. 
+A lo largo de la sesión se abordarán, en el siguiente orden, los siguientes aspectos:
+
++ Definiciones importantes para entender el concepto de ciclo biogeoquímico.
+  + Formas químicas que constituyen el ciclo.
+  + Compartimentos, reservorios, flujos y sumideros.
++ Breve descripción del ciclo del carbono:
+  + Compartimentos.
+  + Flujos de carbono en el planeta. A corto plazo y a largo plazo.
+  + Impacto de la Humanidad en el ciclo del carbono: el cambio climático.
++ Teoría de Gaia. 
+  + Homeostasis planetaria.
+  + Relación con el ciclo del carbono.
++ El ciclo del nitrógeno.
 
 
 
-## Competencia interespecífica 
-
-A lo largo de la sesión se describen los siguientes elementos, que se pueden observar con detalle en [este](https://github.com/aprendiendo-cosas/Te_comp_inter_ecologia_ccaa/raw/main/presentacion/competencia_interespecifica.xmind) mapa mental. Dicho mapa puede visualizarse de manera dinámica en [esta](https://aprendiendo-cosas.github.io/Te_comp_inter_ecologia_ccaa/presentacion/comp_inter.html) página. 
-
-+ La competencia interespecífica consiste en la interacción entre dos o más especies que usan los mismos tipos de recursos.
-+ Tipos de competencia:
-  + Interferencia.
-  + Explotación.
-+ Efectos de la competencia interespecífica a escala de individuo y de población.
-+ Modelización del proceso usando según Lotka y Volterra.
-+ Factores que limitan la competencia interespecífica en la naturaleza.
-
-A continuación puedes ver el vídeo de la sesión.
+Toda la información está disponible en [este](https://github.com/aprendiendo-cosas/Te_ciclos_biogeo_ecologia_ccaa/raw/main/presentacion/ciclos_biogeo.xmind) mapa mental, que puede verse a continuación y también en [esta](https://aprendiendo-cosas.github.io/Te_ciclos_biogeo_ecologia_ccaa/presentacion/ciclos_biogeo.html) página. 
 
 
 
-*Curso 2020-2021*
+<iframe
+  src="https://aprendiendo-cosas.github.io/Te_ciclos_biogeo_ecologia_ccaa/presentacion/ciclos_biogeo.html"
+  style="width:100%; height:450px;"
+></iframe>
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EB8dz0eWA9A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Vídeo de la sesión
 
-
-
-*Curso 2019-2020*
-
-**Vídeo 1**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VXQx5w1LoTw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-**Vídeo 2**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CzvOxSdFmuY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
