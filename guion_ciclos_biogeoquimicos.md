@@ -1,10 +1,10 @@
-# Guión de la sesión denominada "Competencia interespecífica"
+# Guión de la sesión denominada "Ciclos biogeoquímicos"
 
 
 > + **_Versión_**: 2020-2021
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
-> + **Duración**: Aproximadamente 2 horas.
+> + **Duración**: Aproximadamente 1,5 horas.
 
 ![portada](https://github.com/aprendiendo-cosas/Te_comp_inter_ecologia_ccaa/raw/main/imagenes/competencia_inter.png)
 
