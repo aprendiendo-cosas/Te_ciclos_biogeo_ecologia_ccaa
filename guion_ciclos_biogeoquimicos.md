@@ -12,7 +12,7 @@
 
 ## Objetivos 
 
-Esta sesión es la última de la asignatura y en ella daremos el último salto de escala que iniciamos cuando hablamos de poblaciones ecológicas. Desde esa primera sesión hemos transitado el camino desde las poblaciones hasta los ecosistemas, pasando por las comunidades (y los elementos "intermedios": metapoblaciones, biomas, etc.). En esta ocasión trascenderemos la idea de ecosistema para considerar a la biosfera como una entidad con propiedades características. Así, analizaremos con cierto detalle cómo surgen propiedades emergentes que dan entidad a la idea de biosfera y que no están presentes en los ecosistemas. De manera más específica, los objetivos de esta sesión son:
+En esta sesión daremos el último salto de escala que iniciamos cuando hablamos de poblaciones ecológicas. Desde esa primera sesión hemos transitado el camino desde las poblaciones hasta los ecosistemas, pasando por las comunidades (y los elementos "intermedios": metapoblaciones, biomas, etc.). En esta ocasión trascenderemos la idea de ecosistema para considerar a la biosfera como una entidad con propiedades características. Así, analizaremos con cierto detalle cómo surgen propiedades emergentes que dan entidad a la idea de biosfera y que no están presentes en los ecosistemas. De manera más específica, los objetivos de esta sesión son:
 
 + Conocer el concepto de ciclo biogeoquímico como agregado de la actividad individual de los organismos vivos que pueblan el planeta.
 + Conocer los elementos que constituyen los ciclos biogeoquímicos.
