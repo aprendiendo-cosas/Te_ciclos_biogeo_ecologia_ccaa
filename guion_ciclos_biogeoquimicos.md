@@ -22,7 +22,7 @@ Esta sesión es la última de la asignatura y en ella daremos el último salto d
 
 
 
- ## Contenidos. 
+ ## Contenidos
 A lo largo de la sesión se abordarán, en el siguiente orden, los siguientes aspectos:
 
 + Definiciones importantes para entender el concepto de ciclo biogeoquímico.
