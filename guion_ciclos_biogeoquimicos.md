@@ -51,3 +51,5 @@ Toda la información está disponible en [este](https://github.com/aprendiendo-c
 
 ## Vídeo de la sesión
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MvAmqxSmOhA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
