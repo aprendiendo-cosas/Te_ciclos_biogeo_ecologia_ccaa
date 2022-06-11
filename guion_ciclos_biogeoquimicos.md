@@ -1,12 +1,12 @@
-# Guión de la sesión denominada "Ciclos biogeoquímicos"
+# Guión de la sesión denominada "Ciclos biogeoquímicos. Hipótesis Gaia."
 
 
-> + **_Versión_**: 2020-2021
+> + **_Versión_**: 2021-2022
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Aproximadamente 1,5 horas.
 
-![portada](https://github.com/aprendiendo-cosas/Te_ciclos_biogeo_ecologia_ccaa/raw/2020-2021/imagenes/portada.png)
+![portada](https://github.com/aprendiendo-cosas/Te_ciclos_biogeo_ecologia_ccaa/raw/2021-2022/imagenes/portada.png)
 
 
 
@@ -39,17 +39,14 @@ A lo largo de la sesión se abordarán, en el siguiente orden, los siguientes as
 
 
 
-Toda la información está disponible en [este](https://github.com/aprendiendo-cosas/Te_ciclos_biogeo_ecologia_ccaa/raw/2020-2021/presentacion/ciclos_biogeo.xmind) mapa mental, que puede verse a continuación y también en [esta](https://rawcdn.githack.com/aprendiendo-cosas/Te_ciclos_biogeo_ecologia_ccaa/2020-2021/presentacion/ciclos_biogeo.html) página. 
+Toda la información está disponible en [este](https://github.com/aprendiendo-cosas/Te_ciclos_biogeo_ecologia_ccaa/raw/2021-2022/presentacion/ciclos_biogeo.xmind) mapa mental, que puede verse a continuación y también en [esta](https://rawcdn.githack.com/aprendiendo-cosas/Te_ciclos_biogeo_ecologia_ccaa/2021-2022/presentacion/ciclos_biogeo.html) página. 
 
 
 
 <iframe
-  src="https://rawcdn.githack.com/aprendiendo-cosas/Te_ciclos_biogeo_ecologia_ccaa/2020-2021/presentacion/ciclos_biogeo.html"
+  src="https://rawcdn.githack.com/aprendiendo-cosas/Te_ciclos_biogeo_ecologia_ccaa/2021-2022/presentacion/ciclos_biogeo.html"
   style="width:100%; height:450px;"
 ></iframe>
 
 
-## Vídeo de la sesión
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MvAmqxSmOhA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
