@@ -1,4 +1,4 @@
-# Guión de la sesión denominada "Ciclos biogeoquímicos. Hipótesis Gaia."
+# Guión de la sesión denominada "Ciclos biogeoquímicos"
 
 
 > + **_Versión_**: 2025-2026
